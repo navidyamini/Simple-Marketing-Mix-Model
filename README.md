@@ -19,7 +19,6 @@ transaction_id: ID for each transaction
 stock_availability_perc: Number of available items in %
 website_version: Version of the website (old or new) 
 
-Inter is a [variable font](https://rsms.me/inter/#variable) and is in addition also distributed as a set of traditional distinct font files in the following styles:
 
 | Field name                   | Description          
 | ---------------------------- | ------------------------------------ 
